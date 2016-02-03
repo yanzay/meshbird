@@ -7,7 +7,6 @@ import (
 	"net"
 	"crypto/aes"
 	"crypto/cipher"
-	"github.com/meshbird/meshbird/network"
 )
 
 type NetworkSecret struct {
